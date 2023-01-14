@@ -21,7 +21,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/maverickphp/](https://github.com/maverickphp/)
 
-- 💬 Ask me about **React,JavaScript,Node.Js**
+- 💬 Ask me about **React, JavaScript, Node.Js**
 
 - 📫 How to reach me **fasih682@gmail.com**
 
