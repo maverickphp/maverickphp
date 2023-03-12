@@ -20,7 +20,7 @@
 
 - 📫 Portfolio: [https://www.maverickphp.com/](https://www.maverickphp.com/)
 
-- 💬 Ask me about **React, JavaScript, Node.Js**
+- 💬 Ask me about **Python, React, JavaScript, Node.Js**
 
 - 📫 How to reach me **fasih682@gmail.com**
 
