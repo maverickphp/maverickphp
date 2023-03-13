@@ -14,7 +14,7 @@
 
 <h3> 🧑 I'm a Programmer, Developer, and Freelancer!!</h3>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **MERN STACK | JavaScript | Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/maverickphp/](https://github.com/maverickphp/)
 
