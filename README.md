@@ -99,8 +99,9 @@
    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=maverickphp&show_icons=true&theme=merko" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=maverickphp&theme=merko" />
    <img width="55%" src="https://github-readme-stats.vercel.app/api/pin/?username=maverickphp&repo=TextFreeUserInterface-PKM-Portal-2.5&theme=merko" />
+   <img width="55%" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod" />
+   
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maverickphp&theme=merko" /> -->
-<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=maverickphp" /> -->
   
    
    
