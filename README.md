@@ -95,19 +95,19 @@
 </p>
 
 ## ✨GitHub Stats  : 
-<div align="center">
+<!-- <div align="center">
    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=maverickphp&show_icons=true&theme=merko" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=maverickphp&theme=merko" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maverickphp&theme=merko" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime/?username=maverickphp&theme=merko" />
    
-</div>
+</div> -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=maverickphp&show_icons=true&theme=merko" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maverickphp" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maverickphp&theme=merko" />
 </a>
 
 <br/>
