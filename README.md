@@ -96,7 +96,7 @@
 
 ## ✨GitHub Stats  : 
 <div align="center">
-   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=maverickphp&show_icons=true&theme=merko" />
+   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=maverickphp&show_icons=true&theme=merko" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=maverickphp&theme=merko" />
 </div>
 
