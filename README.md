@@ -2,7 +2,6 @@
 <!-- <img src="https://user-images.githubusercontent.com/54361799/108709847-4409a300-7539-11eb-8481-274ec80833a1.png" style='margin-right:"1200px";margin-left:250px;'/> -->
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
 
-
 ## 💡 Connect with me :
 <p align="left"> 
    <a href="mailto:fasih682@gmail.com">
@@ -22,10 +21,12 @@
 
 - 💬 Ask me about **Python, React, JavaScript, Node.Js**
 
-- 📫 How to reach me **fasih682@gmail.com**
+- 📫 How to reach me **info@maverickphp.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/maverickphp/](https://www.linkedin.com/in/maverickphp/)
 
+### 📄 NOTE: 
+- 80% of my projects are private due to privacy.
 
 ## 🌐 Languages and Tools :
 <p align="left">
