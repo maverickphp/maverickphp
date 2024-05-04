@@ -96,11 +96,10 @@
 
 ## ✨GitHub Stats  : 
 <div align="center">
-   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=maverickphp&show_icons=true&theme=merko" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=maverickphp&theme=merko" />   
-   <img width="48.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=maverickphp&repo=TextFreeUserInterface-PKM-Portal-2.5&theme=merko" />
-   <img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=maverickphp&theme=merko" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maverickphp&theme=merko" />  
+   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=maverickphp&show_icons=true&theme=highcontrast" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=maverickphp&theme=highcontrast" />   
+   <img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=maverickphp&theme=highcontrast" />
+   <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maverickphp&theme=highcontrast" />  
 </div>
 
 <br/>
