@@ -97,9 +97,10 @@
 
 ## ✨GitHub Stats  : 
 <div align="center">
-   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=maverickphp&show_icons=true&theme=highcontrast" />
-   <img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=maverickphp&theme=highcontrast" />
-   <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maverickphp&theme=highcontrast" />  
+   <img width="45%" src="https://github-readme-stats.vercel.app/api/wakatime?username=maverickphp&theme=highcontrast" />
+   <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maverickphp&theme=highcontrast" />  
+         <img width="50%" src="https://github-readme-stats.vercel.app/api?username=maverickphp&show_icons=true&theme=highcontrast" />
+
 </div>
 
 <br/>
