@@ -4,7 +4,7 @@
 
 ## 💡 Connect with me :
 <p align="left"> 
-   <a href="mailto:fasih682@gmail.com">
+   <a href="mailto:fasih@maida.co">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:fasih682@gmail.com" />
   </a>
 </p>
@@ -13,7 +13,7 @@
 
 <h3> 🧑 I'm a Programmer, Developer, and Freelancer!!</h3>
 
-- 🌱 I’m currently learning **MERN STACK | JavaScript | Python**
+- 🤖 I’m currently learning AI / ML, specifically **Generative AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/maverickphp/](https://github.com/maverickphp/)
 
@@ -21,12 +21,12 @@
 
 - 💬 Ask me about **Python, React, JavaScript, Node.Js**
 
-- 📫 How to reach me **info@maverickphp.com**
+- 📫 How to reach me **fasih@maida.co**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/maverickphp/](https://www.linkedin.com/in/maverickphp/)
 
 ### 📄 NOTE: 
-- 80% of my projects are private due to privacy.
+- 90% of my projects are private due to privacy.
 
 ## 🌐 Languages and Tools :
 <p align="left">
