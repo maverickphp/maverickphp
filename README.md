@@ -19,7 +19,7 @@
 
 - 📫 Portfolio: [https://www.maverickphp.com/](https://www.maverickphp.com/)
 
-- 💬 Ask me about **Python, React, JavaScript, Node.Js**
+- 💬 Ask me about **Python, NextJS, ExpressJS, ReactJS, SQL/NoSQL, TypeScript, JavaScript, Node.Js etc..**
 
 - 📫 How to reach me **fasih@maida.co**
 
