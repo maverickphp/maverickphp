@@ -2,6 +2,8 @@
 <!-- <img src="https://user-images.githubusercontent.com/54361799/108709847-4409a300-7539-11eb-8481-274ec80833a1.png" style='margin-right:"1200px";margin-left:250px;'/> -->
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
 
+![](https://komarev.com/ghpvc/?username=maverickphp&color=blue)
+
 ## 💡 Connect with me :
 <p align="left"> 
    <a href="mailto:fasih@maida.co">
