@@ -5,7 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=maverickphp&color=blue)
 [![wakatime](https://wakatime.com/badge/user/d14db92f-4df5-4c27-b44e-cc64cf8cd060.svg)](https://wakatime.com/@d14db92f-4df5-4c27-b44e-cc64cf8cd060)
 
-## 💡 Connect with me :
+## 💡 Connect with me 
 <p align="left"> 
    <a href="mailto:fasih@maida.co">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:fasih682@gmail.com" />
