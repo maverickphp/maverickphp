@@ -24,7 +24,7 @@
 
 - 💬 Ask me about **Python, NextJS, ExpressJS, ReactJS, SQL/NoSQL, TypeScript, JavaScript, Node.Js etc..**
 
-- 📫 How to reach me **fasih@maida.co**
+- 📫 How to reach me **info@maverickphp.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/maverickphp/](https://www.linkedin.com/in/maverickphp/)
 
