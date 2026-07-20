@@ -100,10 +100,8 @@
 
 ## ✨GitHub Stats  : 
 <div align="center">
-   <img width="45%" src="https://github-readme-stats.vercel.app/api/wakatime?username=maverickphp&theme=highcontrast" />
-   <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maverickphp&theme=highcontrast" />  
-         <img width="50%" src="https://github-readme-stats.vercel.app/api?username=maverickphp&show_icons=true&theme=highcontrast" />
-
 </div>
-
 <br/>
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=maverickphp&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=maverickphp&layout=compact&theme=radical)
