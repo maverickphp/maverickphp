@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:312e81&height=150&text=Fasih%20Ul%20Haq&fontSize=46&fontColor=ffffff&fontAlignY=42&desc=AI%20Solutions%20Architect%20%C2%B7%20Founder%2C%20savv.pro&descSize=17&descAlignY=72" alt="Fasih Ul Haq" />
+  <img src="./assets/header.svg" width="100%" alt="Fasih Ul Haq, AI Solutions Architect and Founder of savv.pro" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1400&color=818CF8&center=true&vCenter=true&width=640&lines=I+design+and+ship+production+AI+systems.;Agentic+SaaS+%C2%B7+RAG+with+memory+%C2%B7+LLM+fine-tuning;FastAPI+%C2%B7+Node.js+%C2%B7+Kubernetes+%C2%B7+AWS+%C2%B7+GCP" alt="I design and ship production AI systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1400&color=818CF8&center=true&vCenter=true&width=640&lines=I+design+and+ship+production+AI+systems.;Multi-agent+workflows+%C2%B7+persistent+memory+%C2%B7+evals;FastAPI+%C2%B7+Node.js+%C2%B7+Kubernetes+%C2%B7+AWS+%C2%B7+GCP" alt="I design and ship production AI systems" />
 </p>
 
 <p align="center">
